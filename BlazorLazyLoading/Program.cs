@@ -14,7 +14,7 @@ using Syncfusion.Blazor;
 
 namespace BlazorLazyLoading
 {
-    public class Program
+    public static class Program
     {
         public static async Task Main(string[] args)
         {
