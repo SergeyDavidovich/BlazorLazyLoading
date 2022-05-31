@@ -1,3 +1,4 @@
+// https://docs.microsoft.com/ru-ru/aspnet/core/blazor/webassembly-lazy-load-assemblies?view=aspnetcore-6.0
 // https://www.syncfusion.com/blogs/post/lazy-loading-syncfusion-blazor-assemblies-in-a-blazor-webassembly-application.aspx
 
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
