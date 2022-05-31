@@ -20,7 +20,7 @@ namespace BlazorLazyLoading
         {
             //Register Syncfusion license 
             Syncfusion.Licensing.SyncfusionLicenseProvider
-                .RegisterLicense("NDg4ODk3QDMxMzkyZTMyMmUzME9MekVqaG1tV3FYWE5mVTBRc1VJSmpBbFhxR09ycE1oMmczR2dKT2ZmblU9");
+                .RegisterLicense("NjQyNDMxQDMyMzAyZTMxMmUzMGNSU2dTTWsyWEhyM29MenpkUmlvR3lEaGphNFpQWmdDVFVKQm4xVzFZTkU9");
 
 
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
