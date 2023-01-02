@@ -19,8 +19,10 @@ namespace BlazorLazyLoading
         public static async Task Main(string[] args)
         {
             //Register Syncfusion license 
+            // Version 20.4.0.38 = Nzg1ODE3QDMyMzAyZTM0MmUzMGoyN0JJQXc3VnArOHEzeVNtTlNVRXNMeVo4eDdZN3RMaUU4OGdtUG9BYTA9
+
             Syncfusion.Licensing.SyncfusionLicenseProvider
-                .RegisterLicense("NjQyNDMxQDMyMzAyZTMxMmUzMGNSU2dTTWsyWEhyM29MenpkUmlvR3lEaGphNFpQWmdDVFVKQm4xVzFZTkU9");
+                .RegisterLicense("Nzg1ODE3QDMyMzAyZTM0MmUzMGoyN0JJQXc3VnArOHEzeVNtTlNVRXNMeVo4eDdZN3RMaUU4OGdtUG9BYTA9");
 
 
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
